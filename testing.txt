@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 Hello
-=======
-Welcome in fellowship
->>>>>>> fab6b45bb960fde476c0fc98685285034800cc18
+
